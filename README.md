@@ -27,6 +27,16 @@
 </p>
 
 <details>
+  <summary:bulb: Skills</summary>
+ <ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li>HTML</li>
+  <li>CSS/SCSS</li>
+</details>
+
+<details>
   <summary>:balloon: Design Skills</summary>
  <ul>
   <li>Adobe Illustrator</li>
@@ -35,4 +45,3 @@
   <li>CorelDraw</li>
   <li>Figma</li>
 </details>
-  
