@@ -8,9 +8,9 @@
  a Junior Frontend Developer und Gradikdesignerin
 </p>
 
-<p align="center" >
+/* <p align="center" >
  from Venezuela <strong>but</strong> now in Germany!
-</p>
+</p> */
 
 <p align="center">
  <a href="https://www.linkedin.com/in/oriana-quintero/">
