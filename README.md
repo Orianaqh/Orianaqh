@@ -27,7 +27,7 @@
 </p>
 
 <details>
-  <summary:bulb: Skills</summary>
+  <summary> :bulb: Skills</summary>
  <ul>
   <li></li>
   <li></li>
