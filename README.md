@@ -8,11 +8,11 @@
  a Junior Frontend Developer und Gradikdesignerin
 </p>
 
-<p align="center" "font-size: x-small">
+<p align="center" font-size=" x-small">
  from Venezuela <strong>but</strong> now in Germany!
 </p>
 
-<p align="center">=
+<p align="center">
  <a href="https://www.linkedin.com/in/oriana-quintero/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>&nbsp;&nbsp;
