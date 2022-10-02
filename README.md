@@ -8,7 +8,7 @@
  a Junior Frontend Developer und Gradikdesignerin
 </p>
 
-<p align="center" font-size=" x-small">
+<p align="center" font-size="10px">
  from Venezuela <strong>but</strong> now in Germany!
 </p>
 
