@@ -27,7 +27,7 @@
 </p>
 
 <details>
-  <summary> :bulb: Skills</summary>
+  <summary> :electric_plug: Skills</summary>
  <ul>
   <li></li>
   <li></li>
