@@ -27,8 +27,13 @@
 </p>
 
 <details>
-  <summary> :balloon: Design Skills</summary>
- - Illustrator
+  <summary>:balloon: Design Skills</summary>
+ - Adobe Illustrator
+ - Adobe Photoshop
+ - Adobe InDesign
+ - CorelDraw
+ - Figma
+ - Canva
 
   
 </details>
