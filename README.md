@@ -22,8 +22,13 @@
  </a>
 </p>
 
+<p align='center'>
+  📫 How to reach me: <a href='mailto:oriquinterohernandez@gmail.com'>oriquinterohernandez@gmail.com</a>
+</p>
+
 <details>
-  <summary>📦 Packages</summary>
+  <summary> :balloon: Design Skills</summary>
+ - Illustrator
 
   
 </details>
