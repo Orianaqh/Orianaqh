@@ -30,12 +30,9 @@
   <summary>:balloon: Design Skills</summary>
  <ul>
   <li>Adobe Illustrator</li>
- - Adobe Photoshop
- - Adobe InDesign
- - CorelDraw
- - Figma
- - Canva
-
-  
+  <li>Adobe Photoshop</li>
+  <li>Adobe InDesign</li>
+  <li>CorelDraw</li>
+  <li>Figma</li>
 </details>
   
