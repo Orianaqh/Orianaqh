@@ -28,7 +28,8 @@
 
 <details>
   <summary>:balloon: Design Skills</summary>
- - Adobe Illustrator
+ <ul>
+  <li>Adobe Illustrator</li>
  - Adobe Photoshop
  - Adobe InDesign
  - CorelDraw
