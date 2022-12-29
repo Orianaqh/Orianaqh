@@ -31,12 +31,12 @@
  <ul>
   <li></li>
   <li></li>
-  <li></li>
   <li>MongoDB</li>
   <li>Express</li>
   <li>Node js</li>
   <li>React js</li>
   <li>JavaScript</li>
+  <li>Tailwind</li>
   <li>CSS/SCSS</li>
   <li>HTML</li>
 </details>
