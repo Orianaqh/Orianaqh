@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
- a Junior Fullstack Developer und Gradikdesignerin
+ a Junior Fullstack Developerin und Gradikdesignerin
 </p>
 
 <!-- <p align="center" >
@@ -29,16 +29,16 @@
 <details>
   <summary> :electric_plug: Skills</summary>
  <ul>
-  <li></li>
-  <li></li>
-  <li>MongoDB</li>
-  <li>Express</li>
-  <li>Node js</li>
-  <li>React js</li>
-  <li>JavaScript</li>
-  <li>Tailwind</li>
-  <li>CSS/SCSS</li>
   <li>HTML</li>
+  <li>CSS/SCSS</li>
+  <li>JavaScript</li>
+  <li>React js</li>
+  <li>Node js</li>
+  <li>Express</li>
+  <li>MongoDB</li>
+  <li>Tailwind</li>
+  <li>Bootstrap</li>
+
 </details>
 
 <details>
