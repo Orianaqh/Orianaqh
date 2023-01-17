@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
- a Junior Fullstack Developerin und Gradikdesignerin
+ a Junior Frontend Developerin und Gradikdesignerin
 </p>
 
 <!-- <p align="center" >
